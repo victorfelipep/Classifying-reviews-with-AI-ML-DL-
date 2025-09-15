@@ -1,0 +1,21 @@
+﻿review_id,review_text,classification
+1,O produto chegou rápido e em perfeito estado!,POSITIVE
+2,"Demorou demais, não recomendo.",NEGATIVE
+3,"É ok, nada de especial.",NEUTRAL
+4,"Excelente qualidade, super recomendo.",POSITIVE
+5,"Veio com defeito, estou decepcionado.",NEGATIVE
+6,"Atendimento razoável, mas entrega atrasou.",NEGATIVE
+7,Preço justo e entrega dentro do prazo.,POSITIVE
+8,"Horrível, não funciona como descrito.",NEGATIVE
+9,"Funciona bem, mas poderia ser mais barato.",NEUTRAL
+10,"Surpreendeu minhas expectativas, muito bom!",POSITIVE
+11,"A embalagem estava danificada, mas o produto está ok.",NEUTRAL
+12,"Gostei bastante, vou comprar de novo.",POSITIVE
+13,"Não gostei, não recomendo a ninguém.",NEGATIVE
+14,"Entrega foi rápida, mas o suporte não ajudou.",NEGATIVE
+15,"Produto excelente, qualidade impecável.",POSITIVE
+16,Chegou com atraso e sem nota fiscal.,NEGATIVE
+17,"Tudo certo, experiência positiva.",POSITIVE
+18,"Fiquei muito insatisfeito, quero meu dinheiro de volta.",NEGATIVE
+19,Produto cumpre o que promete.,POSITIVE
+20,"Bom custo-benefício, voltaria a comprar.",POSITIVE
